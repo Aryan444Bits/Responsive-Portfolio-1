@@ -43,3 +43,51 @@ A clean, elegant, and responsive portfolio landing page for **Web Designers & De
 
 ## 📂 Folder Structure
 
+Responsive-Portfolio-1/
+│
+├── Project4.html
+├── Project4.css
+├── hero.png
+├── README.md
+├── screenshots/
+│ ├── hero-section.png
+│ ├── services-section.png
+│ └── portfolio-section.png
+
+yaml
+Copy
+Edit
+
+---
+
+## 💻 How to Run Locally
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/aryan444bits/Responsive-Portfolio-1.git
+Open the project folder:
+
+bash
+Copy
+Edit
+cd Responsive-Portfolio-1
+Open Project4.html in your browser
+
+🌍 Deployment
+Deployed on GitHub Pages
+🔗 https://aryan444bits.github.io/Responsive-Portfolio-1/Project4.html
+
+🙌 Credits
+👨‍💻 Developed by: Aryan Branwal
+
+📷 Images: [Add attribution if using external resources like Unsplash or Freepik]
+
+📬 Contact
+Want a site like this? Let’s connect!
+
+📧 Email: branwalaryan71@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/aryan-baranwal-12a1b8301/
+
+📃 License
+This project is licensed under the MIT License.
