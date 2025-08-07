@@ -76,11 +76,3 @@ Deployed with GitHub Pages
 
 
 ---
-
-### 📝 Final Notes:
-- Save your uploaded screenshots in the **root** of your project (same level as `README.md`).
-- Make sure filenames match exactly:
-  - `Screenshot 2025-08-07 191606.png`
-  - `Screenshot 2025-08-07 191619.png`
-
-Let me know if you want a downloadable file or want me to help you publish it cleanly to GitHub.
